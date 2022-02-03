@@ -1,3 +1,3 @@
-# SoC
-Open source Security operations Center
+# SOC Open Source
+Open source Security Operations Center
 ![Image](SOC1.png?raw=true)
